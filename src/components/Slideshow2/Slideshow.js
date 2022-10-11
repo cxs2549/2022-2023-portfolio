@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 import Carousel from '../Carousel/Carousel'
 
+import cyclops from '../../assets/projects/cyclops.png'
 import nike from '../../assets/projects/nike.png'
 import reddragon from '../../assets/projects/red-dragon-shopify.png'
 import dunkin from '../../assets/projects/dunkin.png'
@@ -102,6 +103,13 @@ const StyledSlideshow = styled.div`
 
 const Slideshow = () => {
 	const projectsDesktop = [
+		{
+			title: 'Cyclops',
+			image: cyclops,
+			url: "https://cyclops-next-sanity-stripe.vercel.app/",
+			github: "https://github.com/cxs2549/cyclops-next-sanity-stripe",
+			desc: ``,
+		  },
 		{
 			title: 'Nike',
 			image: nike,
