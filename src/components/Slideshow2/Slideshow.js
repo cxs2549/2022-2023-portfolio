@@ -107,8 +107,8 @@ const Slideshow = () => {
 		{
 			title: 'Alaska Range',
 			image: alaska,
-			url: "https://cyclops-next-sanity-stripe.vercel.app/",
-			github: "https://github.com/cxs2549/cyclops-next-sanity-stripe",
+			url: "https://alaska-range-next-sanity-stripe.vercel.app/",
+			github: "https://github.com/cxs2549/alaska-range-next-sanity-stripe",
 			desc: ``,
 		  },
 		{
